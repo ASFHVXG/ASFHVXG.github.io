@@ -6,4 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-baiduboxapp://swan/AZQtr4jkpf90T3X9QMWVLF1bkeV4LXxD/pages/lemma/lemma?lemmaTitle=%E8%8B%B1%E8%AF%AD&lemmaId=109997&_baiduboxapp=%7B%22from%22%3A%221081000810003000%22%2C%22ext%22%3A%7B%22url%22%3A%22https%3A%2F%2Fvhsagj.smartapps.cn%2Fpages%2Flemma%2Flemma%3FlemmaTitle%3D%25E8%258B%25B1%25E8%25AF%25AD%26lemmaId%3D109997%22%2C%22searchid%22%3A%228532158241960193469%22%2C%22tplname%22%3A%22bk_polysemy%22%2C%22srcid%22%3A1547%2C%22order%22%3A%225%22%2C%22token%22%3A%22swanubc%22%2C%22third_ext%22%3A%7B%22ivkSource%22%3A%22h5_schema%22%2C%22token%22%3A%22swanubc%22%2C%22pd%22%3A%22wise%22%7D%2C%22referpd%22%3A%22A%22%2C%22searchQueryEnc%22%3A%22gu2bi_ap2i_SuDSWmwujKWMSVk6NMV9qA_new%22%2C%22urlsign%22%3A%2217828556725973995234%22%7D%2C%22sysExt%22%3A%7B%22sessionId%22%3A%22lid%5B8532158241960193469%5D_si%5B1547%5D%22%7D%7D&callback=_bdbox_js_9074&oauthType=search&searchParams=%7B%22failUrl%22%3A%22https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E8%258B%25B1%25E8%25AF%25AD%2F109997%22%2C%22logParams%22%3A%22pu%3D%24pu%26baiduid%3D%24baiduid%26tcreq4log%3D1%26isAtom%3D1%26cyc%3D1%26mpv%3D1%26p_sv%3D34%26branchname%3Dbaiduboxapp%26clk_info%3D%7B%5C%22tplname%5C%22%3A%5C%22bk_polysemy%5C%22%2C%5C%22srcid%5C%22%3A1547%2C%5C%22ivkStatus%5C%22%3A%5C%22new_ivk_success%5C%22%2C%5C%22type%5C%22%3A%5C%22xcx%5C%22%2C%5C%22naType%5C%22%3A%5C%22%5C%22%2C%5C%22ivkSource%5C%22%3A%5C%22h5_schema%5C%22%2C%5C%22urlsign%5C%22%3A%5C%2217828556725973995234%5C%22%2C%5C%22jumpType%5C%22%3A%5C%22xcx%5C%22%2C%5C%22jumpId%5C%22%3A110%2C%5C%22xcx_path%5C%22%3A%5C%22%25252Fpages%25252Flemma%25252Flemma%25253FlemmaTitle%25253D%252525E8%2525258B%252525B1%252525E8%252525AF%252525AD%252526lemmaId%25253D109997%5C%22%2C%5C%22xcx_id%5C%22%3A%5C%22AZQtr4jkpf90T3X9QMWVLF1bkeV4LXxD%5C%22%2C%5C%22xcx_from%5C%22%3A%5C%221081000810003000%5C%22%7D%26lid%3D8532158241960193469%26l%3D1%26t%3Dzbios%26ref%3Dwww_zbios%26from%3D1024467g%26order%3D5%26w%3D0_10_%E8%8B%B1%E8%AF%AD%26tj%3Dbk_polysemy_5_0_10_l%26src%3Dhttps%25253A%25252F%25252Fbaike.baidu.com%25252Fitem%25252F%252525E8%2525258B%252525B1%252525E8%252525AF%252525AD%25252F109997%22%7D&useTpl=1
+
+《原神》是由上海米哈游网络科技股份有限公司制作发行的一款开放世界冒险游戏，于2017年1月底立项27
+，原初测试于2019年6月21日开启1
+，再临测试于2020年3月19日开启，启程测试于2020年6月11日开启2
+，PC版技术性开放测试于9月15日开启，公测于2020年9月28日开启3
+。在数据方面，同在官方服务器的情况下，iOS、PC、Android平台之间的账号数据互通，玩家可以在同一账号下切换设备。
+游戏发生在一个被称作“提瓦特大陆”的幻想世界，在这里，被神选中的人将被授予“神之眼”，导引元素之力。玩家将扮演一位名为“旅行者”的神秘角色，在自由的旅行中邂逅性格各异、能力独特的同伴们，和他们一起击败强敌，找回失散的亲人——同时，逐步发掘“原神”的真相4
+。
